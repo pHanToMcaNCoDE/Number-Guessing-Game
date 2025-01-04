@@ -9,3 +9,5 @@
 * The game should end when the user guesses the correct number or runs out of chances.
 * Prompt the user if their input is not an integer
 * Prompt the user if their input is not an integer
+# Reference:
+* Roadmapsh 🔗: https://roadmap.sh/projects/number-guessing-game
